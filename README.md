@@ -2,6 +2,11 @@
 
 ## Versión móvil de la Web App Explore sex-shop 
 
+## Iniciar
+
+Use `npm install` para instalar las dependencias necesarias, luego `expo start` para correr la app y por último se debe escanear codigo QR o abrir en emulador android
+
+
 ### capturas de pantalla
 
 [![Screenshot-2021-06-10-15-07-19.png](https://i.postimg.cc/c4nhrPBS/Screenshot-2021-06-10-15-07-19.png)](https://postimg.cc/tY9WcScS)
@@ -11,6 +16,7 @@
 [![Screenshot_2021-06-10-15-08-16.png](https://i.postimg.cc/nrskKW8q/Screenshot_2021-06-10-15-08-16.png)](https://postimg.cc/RJBK4XZ0)
 
 [![Screenshot-2021-06-10-15-08-04.png](https://i.postimg.cc/1XLKvKP2/Screenshot-2021-06-10-15-08-04.png)](https://postimg.cc/sG4SX7M4)
+
 
 ### Tecnologías utilizadas
 
