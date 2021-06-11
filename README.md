@@ -1,6 +1,6 @@
-# exploreApp
+# ExploreApp
 
-## Explore sex-shop movil
+## Version movil de la Web App Explore sex-shop 
 
 ### capturas de pantalla
 
